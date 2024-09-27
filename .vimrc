@@ -10,11 +10,9 @@ Plugin 'SuperTab'
 Plugin 'file-line'
 Plugin 'The-NERD-tree'
 Plugin 'lifepillar/vim-solarized8'
-Plugin 'venantius/vim-cljfmt'
 Plugin 'ntpeters/vim-better-whitespace'
 Plugin 'plasticboy/vim-markdown'
 Plugin 'tComment'
-Plugin 'rhysd/vim-crystal'
 Plugin 'octol/vim-cpp-enhanced-highlight'
 
 " Lazy-load some plugins

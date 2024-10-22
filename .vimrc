@@ -30,6 +30,10 @@ set autoindent
 set wildmenu
 set wildignore+=*/tmp/*,.git,.svn,CVS,*.o,*.a,*.class,*.obj,*.so,*~,*.swp,*.zip,*.log,*.log.*,*.jpg,*.png,*.xpm,*.gif,*.pdf
 
+# default encoding for utf-8
+set encoding=utf-8
+set fileencoding=utf-8
+
 " Optimize searches
 set ignorecase
 set smartcase
